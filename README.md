@@ -9,6 +9,7 @@
 1. Un script *app.R, ui.R et server.R* pour faire tourner l'application
 2. Un script *data_preparation.R* pour mettre en forme les données
 3. Des données de villes préparées pour **la France, l'Espagne et la Belgique.**
+4. Une présentation en 10 slides
 
 ## Auteurs:
 Pierre-Louis de Soultrait & Alexis Callies
